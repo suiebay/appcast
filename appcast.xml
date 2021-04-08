@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>woop</title>
-    <link>https://cast.appcastify.com/180107273/doover.xml</link>
-    <description>woop app</description>
-    <language>en</language>
-      <item>
-        <title>Version 1.0.1</title>
-        <description>
-          <![CDATA[Updated and some fixes]]>
-        </description>
-        <pubDate>Wed, 07 Apr 2021 04:42:12 -0700</pubDate>
-        <enclosure 
-          url="https://play.google.com/store/apps/details?id=com.woopapp.woop_client" 
-          sparkle:version="1.0.1" 
-          sparkle:dsaSignature="" 
-          content-type="text/html; charset=utf-8" 
-          length="397341" />
-      </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>desc</description>
+            <pubDate>Wed, 07 Apr 2021 04:42:12 -0700</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+    </channel>
 </rss>
